@@ -32,7 +32,7 @@ I turned to scouring the internet once again for recipes that helped me abide by
 The spreadsheet is still a work in progress, but so far offers the ability to search branded and common foods from an online nutritional database, store the queried results into the spreadsheet, and organize meals by macronutrients and daily caloric intake.
 <br><br>
 <kbd>
-<img src="https://github.com/nicholasgonzalez1/Macronutrient_Tracker/blob/main/images/user_interface.png?raw=true" width="800">
+<img src="https://github.com/nicholasgonzalez1/Macronutrient_Tracker/blob/main/images/user_interface.png?raw=true" width="700">
 </kbd><br>
 
 ## Built With
