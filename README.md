@@ -47,7 +47,7 @@ Excel was chosen to build the user interface since it was the platform I felt mo
 
 <!-- GETTING STARTED -->
 ## Getting Started
-The current version of the user interface can be downloaded off [the project's repository](https://github.com/nicholasgonzalez1/Macronutrient_Tracker/blob/main/MACROS.xlsm). This Excel file must be downloaded as a macro-enabled worksheet. 
+The current version of the user interface can be downloaded off [here](https://github.com/nicholasgonzalez1/Macronutrient_Tracker/blob/main/MACROS.xlsm). This Excel file **must** be downloaded as a *macro-enabled worksheet*. The [menuScripts.py file](https://github.com/nicholasgonzalez1/Macronutrient_Tracker/blob/main/menuScripts.py) must be also downloaded and stored in the same folder location as the MACROS.xlsm file. 
 <br><br>
 Once the file is downloaded, the xlWings add-on will need to be downloaded and added to the Excel application. xlWings is an open source package that serves as the bridge between Excel and Python. It comes pre-installed on Anaconda, but still needs to be enabled within the Excel application. Currently, xlWings only operates on Windows and macOS. The xlWings documentation offers further instructions on its [installation](https://docs.xlwings.org/en/stable/installation.html) and [add-in settings](https://docs.xlwings.org/en/stable/addin.html#xlwings-addin).
 <br><br>
