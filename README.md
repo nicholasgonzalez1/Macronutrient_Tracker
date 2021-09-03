@@ -29,7 +29,11 @@ This spreadsheet is a personal project of mine which I gained inspiration from t
 <br><br>
 I turned to scouring the internet once again for recipes that helped me abide by this rule. Between measuring exact serving sizes needed to make several recipes and keeping track of all my meals/snacks throughout the day, I felt that I needed a organizational tool to manage all details. Other applications such as MyFitnessPal offered convenient solutions, but I wanted to construct a tool that catered to my own styles and preferences. It was then that I decided to build this spreadsheet! I concluded that by developing the application myself, I'd be able to merge my fitness endeavors with my data science interests.
 <br><br>
-The spreadsheet is still a work in progress, but so far offers the ability to search branded and common foods from an online nutritional databased, store the queried results into the spreadsheet, and organize meals by macronutrients and daily caloric intake.
+The spreadsheet is still a work in progress, but so far offers the ability to search branded and common foods from an online nutritional database, store the queried results into the spreadsheet, and organize meals by macronutrients and daily caloric intake.
+<br><br>
+<kbd>
+<img src="https://github.com/nicholasgonzalez1/Macronutrient_Tracker/blob/main/images/user_interface.png?raw=true" width="800">
+</kbd><br>
 
 ## Built With
 The following the softwares and languages were used to implement this spreadsheet.
