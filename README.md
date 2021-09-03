@@ -34,8 +34,8 @@ The following the softwares and languages were used to implement this spreadshee
 * Excel
 * VBA
 * Python
-Excel was chosen to build the user interface since it was the platform I felt most comfortable using at the time, in addition to the simplicity of distributing it to other users as well. VBA was used to implement most of the background functionality of the spreadsheet, while Python scripts were developed in order to utilize API's which retrieved requested nutrition facts from an online database.
 
+Excel was chosen to build the user interface since it was the platform I felt most comfortable using at the time, in addition to the simplicity of distributing it to other users as well. VBA was used to implement most of the background functionality of the spreadsheet, while Python scripts were developed in order to utilize API's which retrieved requested nutrition facts from an online database.
 ## Getting Started
 
 ## Main Tab
