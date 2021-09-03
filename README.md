@@ -23,6 +23,7 @@
   </ol>
 </details>
 
+<!-- ABOUT THE PROJECT -->
 ## About the Project
 
 This spreadsheet is a personal project of mine which I gained inspiration from trying to transform my eating habits. After searching the internet for advice on how to improve my overall diet, I found that a key component of losing weight (and in turn, losing body fat - one of my primary goals) was eating in a calorie deficit. This means consuming less calories than you expend throughout the day. However, if I was going to truly implement this eating style, I needed to figure out how to stay full throughout the day and not get hungry. The solution to this problem was eating high-volume, low-calorie meals. 
@@ -35,6 +36,7 @@ The spreadsheet is still a work in progress, but so far offers the ability to se
 <img src="https://github.com/nicholasgonzalez1/Macronutrient_Tracker/blob/main/images/user_interface.png?raw=true" width="700">
 </kbd><br>
 
+<!-- BUILT WITH -->
 ## Built With
 The following the softwares and languages were used to implement this spreadsheet.
 * Excel
@@ -42,7 +44,14 @@ The following the softwares and languages were used to implement this spreadshee
 * Python
 
 Excel was chosen to build the user interface since it was the platform I felt most comfortable using at the time, in addition to the simplicity of distributing it to other users as well. VBA was used to implement most of the background functionality of the spreadsheet, while Python scripts were developed in order to utilize API's which retrieved requested nutrition facts from an online database.
+
+<!-- GETTING STARTED -->
 ## Getting Started
+The current version of the user interface can be downloaded off [the project's repository](https://github.com/nicholasgonzalez1/Macronutrient_Tracker/blob/main/MACROS.xlsm). This Excel file must be downloaded as a macro-enabled worksheet. 
+<br><br>
+Once the file is downloaded, the xlWings add-on will need to be downloaded and added to the Excel application. xlWings is an open source package that serves as the bridge between Excel and Python. It comes pre-installed on Anaconda, but still needs to be enabled within the Excel application. Currently, xlWings only operates on Windows and macOS. The xlWings documentation offers further instructions on its [installation](https://docs.xlwings.org/en/stable/installation.html) and [add-in settings](https://docs.xlwings.org/en/stable/addin.html#xlwings-addin).
+<br><br>
+Certain features of the spreadsheet require an API key, which can be easily obtained for free on the [Nutritionix website](https://www.nutritionix.com/business/api). Registering for the free API key gives users access to 50 API calls per day. More information is provided [below]() on how to input the key into the spreadsheet and use the API.
 
 ## Main Tab
 
