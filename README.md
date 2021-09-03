@@ -51,7 +51,7 @@ The current version of the user interface can be downloaded off [here](https://g
 <br><br>
 Once the Excel file is downloaded, the xlWings add-on will need to be downloaded and added to the Excel application. xlWings is an open source package that serves as the bridge between Excel and Python. It comes pre-installed on Anaconda, but still needs to be enabled within the Excel application. Currently, xlWings only operates on Windows and macOS. The xlWings documentation offers further instructions on its [installation](https://docs.xlwings.org/en/stable/installation.html) and [add-in settings](https://docs.xlwings.org/en/stable/addin.html#xlwings-addin).
 <br><br>
-Certain features of the spreadsheet require an API key, which can be easily obtained for free on the [Nutritionix website](https://www.nutritionix.com/business/api). Registering for the free API key gives users access to 50 API calls per day. More information is provided [below]() on how to input the key into the spreadsheet and use the API.
+Certain features of the spreadsheet require an API key, which can be easily obtained for free on the [Nutritionix website](https://www.nutritionix.com/business/api). Registering for the free API key gives users access to 50 API calls per day. More information is provided [below]() on inputting the key into the spreadsheet and using the API.
 
 ## Main Tab
 
