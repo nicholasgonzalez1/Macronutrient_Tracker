@@ -23,6 +23,8 @@
   </ol>
 </details>
 
+## About the Project
+
 ## Built With
 
 ## Getting Started
